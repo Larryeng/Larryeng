@@ -1,6 +1,6 @@
 # About Me 👋
 # Skill
-[![My Skills](https://skillicons.dev/icons?i=blender,c,arduino,vscode,visualstudio,pr,ps,opencv,md,github,git,cpp,py,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,arduino,vscode,visualstudio,pr,github,git,c,cpp,py,html,css,js)](https://skillicons.dev)
 # Cool Thing
 <!--
 **Larryeng/Larryeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
