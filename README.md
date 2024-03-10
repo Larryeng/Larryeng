@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 
 # Skill
 [![My Skills](https://skillicons.dev/icons?i=blender,arduino,vscode,visualstudio,pr,github,git,c,cpp,py,html,css,js)](https://skillicons.dev)
+# Recently listened to music
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31mqyfrlvkyusmaxegq4pvoow5we)](https://open.spotify.com/user/31mqyfrlvkyusmaxegq4pvoow5we)
 
 # Cool Thing
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larryeng&hide_progress=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larryeng&layout=compact&theme=github_dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larryeng&show_icons=true&theme=github_dark&rank_icon=github)
 
@@ -27,3 +30,10 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Larryeng&show_icons=true&theme=github_dark&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Larryeng&theme=github_dark&layout=compact&langs_count=8&card_width=320" />
+</a>
