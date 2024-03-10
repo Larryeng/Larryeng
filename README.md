@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - I'll write the notes and publish on my page.
-<br>
+
 ➡︎ [Larry's Web](https://larryeng.github.io/)
 
 # Skill
