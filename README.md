@@ -36,4 +36,6 @@ Here are some ideas to get you started:
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
+# Work time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
