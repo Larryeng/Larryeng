@@ -22,14 +22,7 @@ Here are some ideas to get you started:
 
 # Cool Thing
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larryeng&layout=compact&theme=github_dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larryeng&show_icons=true&theme=github_dark&rank_icon=github)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Larryeng&theme=holi-theme)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Larryeng&show_icons=true&theme=github_dark&rank_icon=github" />
@@ -37,3 +30,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Larryeng&theme=github_dark&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
