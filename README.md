@@ -22,10 +22,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Larryeng&theme=holi-theme)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Larryeng&theme=github_dark&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Larryeng&theme=github_dark&rank_icon=github&card_width=50" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Larryeng&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Larryeng&layout=compact&langs_count=8&card_width=50&theme=github_dark" />
 </a>
 
 <br>
