@@ -35,13 +35,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 210 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,5 +111,5 @@ C++                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2024 18:36:05 UTC
+ Last Updated on 22/04/2024 18:36:15 UTC
 <!--END_SECTION:waka-->
