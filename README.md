@@ -35,13 +35,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 92.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 230 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,20 +78,19 @@ Sunday                   63 commits          ██████████░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      2 hrs 41 mins       ███████████████████████░░   90.67 % 
-Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+C++                      38 mins             ██████████████████░░░░░░░   71.53 % 
+Python                   15 mins             ███████░░░░░░░░░░░░░░░░░░   28.47 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c++                      2 hrs 43 mins       ███████████████████████░░   91.49 % 
-python爬蟲                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+c++                      38 mins             ██████████████████░░░░░░░   71.53 % 
+python爬蟲                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +109,5 @@ C++                      1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2024 18:36:58 UTC
+ Last Updated on 02/06/2024 18:37:26 UTC
 <!--END_SECTION:waka-->
