@@ -35,13 +35,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 92.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 231 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,19 +78,19 @@ Sunday                   63 commits          ██████████░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      1 hr 45 mins        ████████████████████████░   95.84 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+C++                      1 hr 52 mins        ████████████████████████░   96.09 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c++                      1 hr 45 mins        ████████████████████████░   95.84 % 
-Image recognition        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+c++                      1 hr 52 mins        ████████████████████████░   96.09 % 
+Image recognition        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -108,5 +110,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2024 18:39:46 UTC
+ Last Updated on 26/06/2024 18:39:43 UTC
 <!--END_SECTION:waka-->
