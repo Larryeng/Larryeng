@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,16 +76,16 @@ Sunday                   63 commits          ██████████░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      1 hr 50 mins        █████████████████████████   100.00 % 
+C++                      1 hr 20 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c++                      1 hr 50 mins        █████████████████████████   100.00 % 
+c++                      1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -105,5 +105,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 18:38:32 UTC
+ Last Updated on 01/07/2024 18:39:24 UTC
 <!--END_SECTION:waka-->
