@@ -35,7 +35,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,16 +78,17 @@ Sunday                   63 commits          ██████████░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      1 hr 47 mins        █████████████████████████   100.00 % 
+C++                      3 hrs 41 mins       █████████████████████████   99.94 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c++                      1 hr 47 mins        █████████████████████████   100.00 % 
+c++                      3 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -107,5 +108,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2024 18:39:05 UTC
+ Last Updated on 29/07/2024 18:39:58 UTC
 <!--END_SECTION:waka-->
