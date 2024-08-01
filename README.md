@@ -35,13 +35,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 92.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 231 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,17 +78,19 @@ Sunday                   63 commits          ██████████░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      11 hrs 2 mins       █████████████████████████   99.71 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+C++                      12 hrs 24 mins      █████████████████████████   99.59 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c++                      11 hrs 4 mins       █████████████████████████   100.00 % 
+c++                      12 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -106,5 +110,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2024 18:40:29 UTC
+ Last Updated on 01/08/2024 18:40:09 UTC
 <!--END_SECTION:waka-->
