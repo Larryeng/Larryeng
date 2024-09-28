@@ -13,10 +13,10 @@
 - Member of the **video editing team for Nan-Dian** (Southern Electric).
 
 ## Competition Experience
-- **School-level Science Competition** || Overslept ||
-- **YTP** || Did not reach the finals ||
-- **NCKU Invitational Competition** || Also did not reach the finals ||
-- **IONC Day 5 Competition div2. rk1.** || Carried by teammates ||
+- **School-level Science Competition** ||Overslept||
+- **YTP** ||Did not reach the finals||
+- **NCKU Invitational Competition** ||Also did not reach the finals||
+- **IONC Day 5 Competition div2. rk1.** ||Carried by teammates||
 - **Seventh place in Chiayi City** with Scratch during junior high school.
 - **APCS scores**: Concept 3, Implementation 2.
 
