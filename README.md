@@ -6,11 +6,11 @@
 - A novice in **cybersecurity**.
 
 ## Life Experiences
-- **President of the Information Research Club at Chiayi High School**; responsible for teaching and visual design.
+- **President of the Information Research Club at Chiayi High School**
 - **Founder of [TPEC](https://discord.gg/b3XmEup5Nz)** (currently planning interesting activities).
 - **General Coordinator** of the Chianan Joint Information Exploration Camp.
 - **Deputy Coordinator** of this year's Southern Ten Schools Joint Tea Party.
-- Member of the **video editing team for Nan-Dian** (Southern Electric).
+- Member of the **video editing team for SCIST**.
 
 ## Competition Experience
 - **School-level Science Competition** ||Overslept||
