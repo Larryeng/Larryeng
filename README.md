@@ -1,24 +1,28 @@
 # About Me 👋
+
 ## Brief Introduction
-- **A sophomore student at Chiayi High School** with a passion for mathematics and programming, though not particularly skilled in either.
-- Initially started with **Python**, but now mainly uses it for development or for creating unconventional tools.
-- Currently focusing on **C++ for competitive programming**.
-- A novice in **cybersecurity**.
+- 🎓 **A sophomore student at Chiayi High School** with a passion for mathematics and programming, though not particularly skilled in either.
+- 🐍 Initially started with **Python**, but now mainly uses it for development or for creating unconventional tools.
+- 💻 Currently focusing on **C++ for competitive programming**.
+- 🔐 A novice in **cybersecurity**.
 
 ## Life Experiences
-- **President of the Information Research Club at Chiayi High School**
-- **Founder of [TPEC](https://discord.gg/b3XmEup5Nz)** (currently planning interesting activities).
-- **General Coordinator** of the Chianan Joint Information Exploration Camp.
-- **Deputy Coordinator** of this year's Southern Ten Schools Joint Tea Party.
-- Member of the **video editing team for SCIST**.
+- 🧸 **President of the Information Research Club at Chiayi High School**
+- 🌟 **Founder of [TPEC](https://discord.gg/b3XmEup5Nz)** (currently planning interesting activities).
+- 🌐 **General convener** of the Chianan Joint Information Exploration Camp.
+- 🌐 **Deputy convener** of this year's Southern Ten Schools Joint Tea Party.
+- 📽️ Member of the **video editing team for SCIST**.
 
 ## Competition Experience
-- **School-level Science Competition** ||Overslept||
-- **YTP** ||Did not reach the finals||
-- **NCKU Invitational Competition** ||Also did not reach the finals||
-- **IONC Day 5 Competition div2. rk1.** ||Carried by teammates||
-- **Seventh place in Chiayi City** with Scratch during junior high school.
-- **APCS scores**: Concept 3, Implementation 2.
+- 💤 **School-level Science Competition** ||Overslept||
+- ❌ **YTP** ||Did not reach the finals||
+- ❌ **NCKU Invitational Competition** ||Also did not reach the finals||
+- 🥇 **IONC Day 5 Competition div2. rk1.** ||Carried by teammates||
+- 🥉 **Seventh place in Chiayi City** with Scratch during junior high school.
+- 📈 **APCS scores**: Concept 3, Implementation 2.
+
+➡️ [鯊魚Y.Yの程長日記](https://larryeng.github.io/)
+
 
 ➡︎ [鯊魚Y.Yの程長日記](https://larryeng.github.io/)
 
