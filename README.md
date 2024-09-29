@@ -23,9 +23,6 @@
 
 ➡️ [鯊魚Y.Yの程長日記](https://larryeng.github.io/)
 
-
-➡︎ [鯊魚Y.Yの程長日記](https://larryeng.github.io/)
-
 # Skill
 [![My Skills](https://skillicons.dev/icons?i=blender,arduino,vscode,visualstudio,pr,github,git,c,cpp,py,html,css,js)](https://skillicons.dev)
 
