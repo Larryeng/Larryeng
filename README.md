@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=blender,arduino,vscode,visualstudio,pr,github,git,c,cpp,py,html,css,js)](https://skillicons.dev)
 
 # Chart
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Larryeng&bg_color=d1e3ff&color=8c4587&line=c176bc&point=665252&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Larryeng&bg_color=0d1117&color=f0f6fc&line=4493f8&point=b0b0b0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Cool Thing
 
