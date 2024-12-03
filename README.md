@@ -53,9 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 269.0 kB Used in GitHub's Storage 
- > 
-> 🏆 335 Contributions in the Year 2024
+> 📦 269.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -124,5 +122,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2024 18:47:23 UTC
+ Last Updated on 03/12/2024 18:46:18 UTC
 <!--END_SECTION:waka-->
