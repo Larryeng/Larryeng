@@ -90,21 +90,16 @@ Sunday                   74 commits          ███████████�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TypeScript               55 mins             ███████████████████░░░░░░   77.10 % 
-C++                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nextjs-dashboard         59 mins             █████████████████████░░░░   82.90 % 
-c++                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -124,5 +119,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2024 18:44:14 UTC
+ Last Updated on 09/12/2024 18:48:14 UTC
 <!--END_SECTION:waka-->
