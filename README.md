@@ -100,11 +100,11 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Python** 
 
 ```text
+Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
 TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
@@ -117,5 +117,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 18:42:43 UTC
+ Last Updated on 02/01/2025 18:44:01 UTC
 <!--END_SECTION:waka-->
