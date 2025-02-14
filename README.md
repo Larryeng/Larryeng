@@ -55,8 +55,6 @@
 
 > 📦 272.6 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -119,5 +117,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2025 18:45:02 UTC
+ Last Updated on 14/02/2025 18:43:40 UTC
 <!--END_SECTION:waka-->
