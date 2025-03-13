@@ -53,9 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 272.3 kB Used in GitHub's Storage 
- > 
-> 🏆 28 Contributions in the Year 2025
+> 📦 272.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,5 +117,5 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 18:47:17 UTC
+ Last Updated on 13/03/2025 18:46:50 UTC
 <!--END_SECTION:waka-->
