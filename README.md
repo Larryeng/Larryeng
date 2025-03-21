@@ -20,8 +20,8 @@
 - 🥇 **IONC Day 5 Competition div2. rk1.** ||Carried by teammates||
 - 🥉 **Seventh place in Chiayi City** with Scratch during junior high school.
 - 📈 **APCS scores**: Concept 3, Implementation 2.
-
-➡️ [鯊魚Y.Yの程長日記](https://larryeng.github.io/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d4e75779-ed15-428e-b0f1-a72e983f9e41/deploy-status)](https://app.netlify.com/sites/sharkyy/deploys)
+➡️ [鯊魚Y.Yの程長日記](https://sharkyy.netlify.app/)
 
 # Skill
 [![My Skills](https://skillicons.dev/icons?i=blender,arduino,vscode,visualstudio,pr,github,git,c,cpp,py,html,css,js)](https://skillicons.dev)
