@@ -56,8 +56,6 @@
 
 > 📦 284.4 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -120,5 +118,5 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 18:48:03 UTC
+ Last Updated on 03/04/2025 18:47:11 UTC
 <!--END_SECTION:waka-->
