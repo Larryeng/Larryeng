@@ -48,61 +48,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2056%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 294.2 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-🌆 Daytime                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-🌃 Evening                126 commits         ██████████░░░░░░░░░░░░░░░   38.89 % 
-🌙 Night                  115 commits         █████████░░░░░░░░░░░░░░░░   35.49 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Wednesday                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Friday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Saturday                 60 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Sunday                   110 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -120,5 +77,5 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:48:37 UTC
+ Last Updated on 02/05/2025 18:48:01 UTC
 <!--END_SECTION:waka-->
