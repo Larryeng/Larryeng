@@ -50,11 +50,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 294.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 66 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,5 +120,5 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 18:47:05 UTC
+ Last Updated on 05/06/2025 18:59:53 UTC
 <!--END_SECTION:waka-->
