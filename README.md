@@ -56,8 +56,6 @@
 
 > 📦 356.8 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -120,5 +118,5 @@ GDScript                 2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 18:54:57 UTC
+ Last Updated on 12/08/2025 18:53:33 UTC
 <!--END_SECTION:waka-->
