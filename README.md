@@ -48,8 +48,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2056%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -64,45 +62,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-🌆 Daytime                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-🌃 Evening                142 commits         █████████░░░░░░░░░░░░░░░░   37.77 % 
-🌙 Night                  139 commits         █████████░░░░░░░░░░░░░░░░   36.97 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Wednesday                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Thursday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Saturday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Sunday                   119 commits         ████████░░░░░░░░░░░░░░░░░   31.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -120,5 +79,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:52:35 UTC
+ Last Updated on 02/01/2026 18:52:16 UTC
 <!--END_SECTION:waka-->
