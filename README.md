@@ -48,6 +48,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2035%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -62,6 +64,45 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+🌆 Daytime                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+🌃 Evening                140 commits         █████████░░░░░░░░░░░░░░░░   37.43 % 
+🌙 Night                  139 commits         █████████░░░░░░░░░░░░░░░░   37.17 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Wednesday                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Thursday                 63 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Saturday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Sunday                   119 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,5 +120,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:01:10 UTC
+ Last Updated on 03/02/2026 19:26:40 UTC
 <!--END_SECTION:waka-->
