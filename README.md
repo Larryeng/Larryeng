@@ -91,22 +91,45 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      10 mins             █████████████████████████   100.00 % 
+C++                      16 mins             ████████████░░░░░░░░░░░░░   49.21 % 
+PowerShell               7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+RPMSpec                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  27 mins             ████████████████████░░░░░   79.87 % 
+Codex Vscode             6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
 
 🐱‍💻 Projects: 
-c++                      10 mins             █████████████████████████   100.00 % 
+c++                      17 mins             █████████████░░░░░░░░░░░░   50.82 % 
+new-chat                 16 mins             ████████████░░░░░░░░░░░░░   48.34 % 
+referenced-chatgpt-conver0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 23 mins (69.72%)
+
+✍️ 1,017 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 102,132 Input Tokens, 27,034 Output Tokens
+
+💵 $4.52 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 39 AI Prompts
+
+GPT                      1,017 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,390 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -126,5 +149,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:26:44 UTC
+ Last Updated on 29/09/2026 22:30:57 UTC
 <!--END_SECTION:waka-->
