@@ -52,7 +52,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,46 +93,46 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   34.10 % 
-C++                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Python                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Text                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+C++                      2 hrs 59 mins       ████████████████░░░░░░░░░   62.15 % 
+Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Python                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+PowerShell               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 7 mins        █████████████████░░░░░░░░   69.65 % 
-VS Code                  55 mins             ████████░░░░░░░░░░░░░░░░░   30.35 % 
+VS Code                  3 hrs 21 mins       █████████████████░░░░░░░░   69.47 % 
+Codex Vscode             1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   30.53 % 
 
 🐱‍💻 Projects: 
-referenced-chatgpt-conver2 hrs 2 mins        █████████████████░░░░░░░░   66.65 % 
-c++                      40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-new-chat                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+c++                      3 hrs 5 mins        ████████████████░░░░░░░░░   64.18 % 
+referenced-chatgpt-conver1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+new-chat                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (88.11%)
+⏱ AI Coding Time: 1 hr 59 mins (41.23%)
 
-✍️ 1,383 lines written by AI, 16 lines written by hand (98.86% AI-written)
+✍️ 1,307 lines written by AI, 257 lines written by hand (83.57% AI-written)
 
-🔤 723,373 Input Tokens, 76,458 Output Tokens
+🔤 522,995 Input Tokens, 61,806 Output Tokens
 
-💵 $35.38 Estimated AI Cost This Week
+💵 $27.05 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 85 AI Prompts
+🧠 6 AI Sessions, 59 AI Prompts
 
-GPT                      1,383 lines         █████████████████████████   100.00 % 
+GPT                      1,307 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.86% of written lines came from AI
-📚 Verbose Prompter — average 4,670 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 1.36% of changed lines were hand-edited
+🤖 AI-Driven — 83.57% of written lines came from AI
+📚 Verbose Prompter — average 4,967 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 18.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -152,5 +152,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:46:32 UTC
+ Last Updated on 06/10/2026 00:14:33 UTC
 <!--END_SECTION:waka-->
