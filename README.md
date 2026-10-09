@@ -93,42 +93,23 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      3 hrs 10 mins       ███████████████████░░░░░░   75.28 % 
-Other                    1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+C++                      2 hrs 45 mins       █████████████████████████   99.86 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       ███████████████████░░░░░░   75.63 % 
-Codex Vscode             1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c++                      3 hrs 11 mins       ███████████████████░░░░░░   75.43 % 
-referenced-chatgpt-conver1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+c++                      2 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (26.02%)
-
-✍️ 0 lines written by AI, 286 lines written by hand (0.0% AI-written)
-
-🔤 205,456 Input Tokens, 8,041 Output Tokens
-
-💵 $10.31 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 18 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,824 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -148,5 +129,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:30:29 UTC
+ Last Updated on 09/10/2026 22:48:23 UTC
 <!--END_SECTION:waka-->
