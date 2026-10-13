@@ -48,7 +48,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2029%20mins-blue?style=flat)
 
@@ -56,9 +56,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 182.6 kB Used in GitHub's Storage 
+> 📦 188.2 kB Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2026
+> 🏆 27 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,21 +69,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-🌆 Daytime                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-🌃 Evening                53 commits          ████████░░░░░░░░░░░░░░░░░   32.52 % 
-🌙 Night                  77 commits          ████████████░░░░░░░░░░░░░   47.24 % 
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+🌆 Daytime                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+🌃 Evening                53 commits          ████████░░░░░░░░░░░░░░░░░   32.32 % 
+🌙 Night                  77 commits          ████████████░░░░░░░░░░░░░   46.95 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Tuesday                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Thursday                 30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Sunday                   52 commits          ████████░░░░░░░░░░░░░░░░░   31.90 % 
+Monday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Tuesday                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Thursday                 30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Friday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Sunday                   52 commits          ████████░░░░░░░░░░░░░░░░░   31.71 % 
 ```
 
 
@@ -93,17 +93,17 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      1 hr 40 mins        █████████████████████████   99.48 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+C++                      1 hr 36 mins        █████████████████████████   99.46 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-c++                      1 hr 41 mins        █████████████████████████   100.00 % 
+c++                      1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -129,5 +129,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:54:49 UTC
+ Last Updated on 13/10/2026 23:00:36 UTC
 <!--END_SECTION:waka-->
