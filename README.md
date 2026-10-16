@@ -93,23 +93,47 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      2 hrs 20 mins       █████████████████████████   99.63 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+C++                      2 hrs 47 mins       ████████████████████░░░░░   78.34 % 
+Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 48 mins       ████████████████████░░░░░   78.58 % 
+Codex Vscode             45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
 
 🐱‍💻 Projects: 
-c++                      2 hrs 20 mins       █████████████████████████   100.00 % 
+c++                      2 hrs 48 mins       ████████████████████░░░░░   78.58 % 
+referenced-chatgpt-conver27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+referenced-chatgpt-conver8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+referenced-chatgpt-conver7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+7-30-slack-plugin-slack-o3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 45 mins (21.42%)
+
+✍️ 6 lines written by AI, 322 lines written by hand (1.83% AI-written)
+
+🔤 736,654 Input Tokens, 46,179 Output Tokens
+
+💵 $7.18 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 4 AI Prompts
+
+GPT                      6 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 1.83% of written lines came from AI
+📄 Detailed Prompter — average 1,120 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 98.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,5 +153,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:38:03 UTC
+ Last Updated on 16/10/2026 21:32:09 UTC
 <!--END_SECTION:waka-->
