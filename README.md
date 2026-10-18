@@ -52,7 +52,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,47 +93,47 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      2 hrs 47 mins       ████████████████████░░░░░   78.34 % 
-Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+C++                      3 hrs 48 mins       ████████████████████░░░░░   80.91 % 
+Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       ████████████████████░░░░░   78.58 % 
-Codex Vscode             45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+VS Code                  3 hrs 57 mins       █████████████████████░░░░   83.79 % 
+Codex Vscode             45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 
 🐱‍💻 Projects: 
-c++                      2 hrs 48 mins       ████████████████████░░░░░   78.58 % 
-referenced-chatgpt-conver27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-referenced-chatgpt-conver8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-referenced-chatgpt-conver7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-7-30-slack-plugin-slack-o3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+c++                      3 hrs 49 mins       ████████████████████░░░░░   81.10 % 
+referenced-chatgpt-conver34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+referenced-chatgpt-conver8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+referenced-chatgpt-conver7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+7-30-slack-plugin-slack-o3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (21.42%)
+⏱ AI Coding Time: 1 hr (21.37%)
 
-✍️ 6 lines written by AI, 322 lines written by hand (1.83% AI-written)
+✍️ 77 lines written by AI, 480 lines written by hand (13.82% AI-written)
 
-🔤 736,654 Input Tokens, 46,179 Output Tokens
+🔤 771,640 Input Tokens, 51,150 Output Tokens
 
-💵 $7.18 Estimated AI Cost This Week
+💵 $7.38 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 5 AI Sessions, 5 AI Prompts
 
-GPT                      6 lines             █████████████████████████   100.00 % 
+GPT                      77 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.83% of written lines came from AI
-📄 Detailed Prompter — average 1,120 characters per prompt
+🧑‍💻 Mostly Hands-On — 13.82% of written lines came from AI
+📄 Detailed Prompter — average 1,086 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 98.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -153,5 +153,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:49:53 UTC
+ Last Updated on 18/10/2026 20:57:53 UTC
 <!--END_SECTION:waka-->
