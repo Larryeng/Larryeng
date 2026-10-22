@@ -48,9 +48,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -93,47 +93,47 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      2 hrs 9 mins        █████████████░░░░░░░░░░░░   50.82 % 
-Python                   1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Other                    54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+C++                      2 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.67 % 
+Python                   1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Other                    54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ███████████████████░░░░░░   76.75 % 
-Codex Vscode             59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+VS Code                  3 hrs 21 mins       ███████████████████░░░░░░   77.27 % 
+Codex Vscode             59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
 
 🐱‍💻 Projects: 
-c++                      2 hrs 9 mins        █████████████░░░░░░░░░░░░   50.82 % 
-referenced-chatgpt-conver1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   40.51 % 
-referenced-chatgpt-conver9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-referenced-chatgpt-conver8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-7-30-slack-plugin-slack-o4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+c++                      2 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.67 % 
+referenced-chatgpt-conver1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   41.19 % 
+referenced-chatgpt-conver9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+referenced-chatgpt-conver8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+7-30-slack-plugin-slack-o4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Windows                  4 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (52.1%)
+⏱ AI Coding Time: 2 hrs 16 mins (52.52%)
 
-✍️ 77 lines written by AI, 470 lines written by hand (14.08% AI-written)
+✍️ 180 lines written by AI, 470 lines written by hand (27.69% AI-written)
 
-🔤 1,481,833 Input Tokens, 68,280 Output Tokens
+🔤 1,586,087 Input Tokens, 76,811 Output Tokens
 
-💵 $9.32 Estimated AI Cost This Week
+💵 $9.74 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 29 AI Prompts
+🧠 12 AI Sessions, 30 AI Prompts
 
-GPT                      77 lines            █████████████████████████   100.00 % 
+GPT                      180 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.08% of written lines came from AI
-📝 Concise Prompter — average 402 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 88.51% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 27.69% of written lines came from AI
+📄 Detailed Prompter — average 502 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 76.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -153,5 +153,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:53:26 UTC
+ Last Updated on 22/10/2026 21:50:38 UTC
 <!--END_SECTION:waka-->
