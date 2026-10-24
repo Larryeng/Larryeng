@@ -93,47 +93,47 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      1 hr 41 mins        ██████████████░░░░░░░░░░░   54.39 % 
-Python                   1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   34.04 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+C++                      1 hr 41 mins        ████████████░░░░░░░░░░░░░   48.48 % 
+Python                   1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.34 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 53 mins       ███████████████████████░░   92.89 % 
-Codex Vscode             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+VS Code                  3 hrs 16 mins       ███████████████████████░░   93.67 % 
+Codex Vscode             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🐱‍💻 Projects: 
-c++                      1 hr 41 mins        ██████████████░░░░░░░░░░░   54.39 % 
-referenced-chatgpt-conver1 hr 20 mins        ███████████░░░░░░░░░░░░░░   42.97 % 
-referenced-chatgpt-conver1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-New_blog                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-7-30-slack-plugin-slack-o1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+referenced-chatgpt-conver1 hr 42 mins        ████████████░░░░░░░░░░░░░   49.17 % 
+c++                      1 hr 41 mins        ████████████░░░░░░░░░░░░░   48.48 % 
+referenced-chatgpt-conver1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+New_blog                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+7-30-slack-plugin-slack-o1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 30 mins (48.66%)
+⏱ AI Coding Time: 1 hr 53 mins (54.24%)
 
-✍️ 174 lines written by AI, 456 lines written by hand (27.62% AI-written)
+✍️ 1,140 lines written by AI, 456 lines written by hand (71.43% AI-written)
 
-🔤 849,433 Input Tokens, 30,632 Output Tokens
+🔤 1,094,171 Input Tokens, 69,086 Output Tokens
 
-💵 $2.56 Estimated AI Cost This Week
+💵 $3.82 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 26 AI Prompts
+🧠 10 AI Sessions, 29 AI Prompts
 
-GPT                      174 lines           █████████████████████████   100.00 % 
+GPT                      1,140 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.62% of written lines came from AI
-📝 Concise Prompter — average 407 characters per prompt
+🤖 AI-Driven — 71.43% of written lines came from AI
+📝 Concise Prompter — average 409 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 76.92% of changed lines were hand-edited
+🚀 High AI Trust — 33.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -153,5 +153,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:34:41 UTC
+ Last Updated on 24/10/2026 21:04:09 UTC
 <!--END_SECTION:waka-->
