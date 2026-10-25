@@ -48,9 +48,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -93,47 +93,47 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      1 hr 41 mins        ████████████░░░░░░░░░░░░░   48.48 % 
-Python                   1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Python                   55 mins             ██████████░░░░░░░░░░░░░░░   38.62 % 
+C++                      44 mins             ████████░░░░░░░░░░░░░░░░░   30.75 % 
+Markdown                 24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 16 mins       ███████████████████████░░   93.67 % 
-Codex Vscode             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+VS Code                  2 hrs 11 mins       ███████████████████████░░   90.84 % 
+Codex Vscode             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 🐱‍💻 Projects: 
-referenced-chatgpt-conver1 hr 42 mins        ████████████░░░░░░░░░░░░░   49.17 % 
-c++                      1 hr 41 mins        ████████████░░░░░░░░░░░░░   48.48 % 
-referenced-chatgpt-conver1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-New_blog                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-7-30-slack-plugin-slack-o1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+referenced-chatgpt-conver1 hr 35 mins        ████████████████░░░░░░░░░   65.85 % 
+c++                      44 mins             ████████░░░░░░░░░░░░░░░░░   30.75 % 
+referenced-chatgpt-conver1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+New_blog                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+7-30-slack-plugin-slack-o1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (54.24%)
+⏱ AI Coding Time: 1 hr 38 mins (68.35%)
 
-✍️ 1,140 lines written by AI, 456 lines written by hand (71.43% AI-written)
+✍️ 1,069 lines written by AI, 298 lines written by hand (78.2% AI-written)
 
-🔤 1,094,171 Input Tokens, 69,086 Output Tokens
+🔤 1,059,185 Input Tokens, 64,115 Output Tokens
 
-💵 $3.82 Estimated AI Cost This Week
+💵 $3.62 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 29 AI Prompts
+🧠 9 AI Sessions, 28 AI Prompts
 
-GPT                      1,140 lines         █████████████████████████   100.00 % 
+GPT                      1,069 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.43% of written lines came from AI
-📝 Concise Prompter — average 409 characters per prompt
+🤖 AI-Driven — 78.2% of written lines came from AI
+📝 Concise Prompter — average 390 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 33.72% of changed lines were hand-edited
+🚀 High AI Trust — 26.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -153,5 +153,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 21:04:09 UTC
+ Last Updated on 25/10/2026 21:05:41 UTC
 <!--END_SECTION:waka-->
