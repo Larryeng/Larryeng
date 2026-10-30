@@ -48,9 +48,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larryeng&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 # Work time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -93,38 +93,38 @@ Sunday                   52 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C++                      2 hrs 11 mins       █████████████████████░░░░   82.47 % 
-Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+C++                      2 hrs 39 mins       █████████████████████░░░░   84.96 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   99.42 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+VS Code                  3 hrs 6 mins        █████████████████████████   99.51 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-c++                      2 hrs               ███████████████████░░░░░░   75.72 % 
-referenced-chatgpt-conver24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-_Fall_detection          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-7-30-slack-plugin-slack-o1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-referenced-chatgpt-conver0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+c++                      2 hrs 28 mins       ████████████████████░░░░░   79.24 % 
+referenced-chatgpt-conver24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+_Fall_detection          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+7-30-slack-plugin-slack-o1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+referenced-chatgpt-conver0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (16.95%)
+⏱ AI Coding Time: 27 mins (14.55%)
 
 ✍️ 966 lines written by AI, 79 lines written by hand (92.44% AI-written)
 
-🔤 633,588 Input Tokens, 41,431 Output Tokens
+🔤 783,881 Input Tokens, 42,830 Output Tokens
 
-💵 $1.63 Estimated AI Cost This Week
+💵 $1.65 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 6 AI Prompts
+🧠 9 AI Sessions, 6 AI Prompts
 
 GPT                      966 lines           █████████████████████████   100.00 % 
 
@@ -132,7 +132,7 @@ GPT                      966 lines           ███████████�
 🤖 AI-Driven — 92.44% of written lines came from AI
 📄 Detailed Prompter — average 1,220 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 10.97% of changed lines were hand-edited
+🚀 High AI Trust — 11.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -152,5 +152,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larryeng/Larryeng/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:54:27 UTC
+ Last Updated on 30/10/2026 22:34:05 UTC
 <!--END_SECTION:waka-->
